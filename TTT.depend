@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512664434 source:d:\biblioteki\dokumenty\programs c++\kulko_kzyrzyk\zaliczenie\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+
+1512664434 source:c:\users\user\desktop\zaliczenie\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+
